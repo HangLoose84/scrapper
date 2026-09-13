@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+# secretos: el token de Telegram vive aca
+.env
+
+# datos y logs locales
+*.db
+*.sqlite
+*.sqlite3
+bot.log
